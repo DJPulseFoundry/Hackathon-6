@@ -4,6 +4,17 @@
 
 **Hackathon on Devpost:** [Pulse Foundry AI Healthcare Hackathon: Reimagining Cardiac Rehabilitation](https://pulse-foundry-ai-healthcare.devpost.com/)
 
+### Sponsors
+
+Thanks to **Vercel** (including **v0**) and **Lovable** for supporting this hackathon.
+
+| Sponsor | Credit |
+|--------|--------|
+| **v0** (Vercel) | `PULSE-FOUNDRY-V0` |
+| **Lovable** | *To be announced* |
+
+Sponsor details: [`sponsors/README.md`](sponsors/README.md) (per-sponsor blurbs in that folder).
+
 ---
 
 ## The Story: Maria’s Gap
