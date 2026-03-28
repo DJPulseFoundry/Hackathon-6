@@ -50,4 +50,13 @@ AI Solution Director, <strong>C3 AI</strong><br/>
 <a href="https://www.linkedin.com/in/douglasmacintosh/">LinkedIn</a>
 </td>
 </tr>
+
+<tr>
+<td align="center" colspan="2">
+<img src="../profiles/matias_pollevick.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Matias Pollevick, MD" /><br/>
+<strong>Matias Pollevick, MD</strong><br/>
+Cardiology Fellow, <strong>New York Presbyterian-Columbia University</strong><br/>
+<a href="https://www.linkedin.com/in/matias-pollevick-md-62606570/">LinkedIn</a>
+</td>
+</tr>
 </table>
