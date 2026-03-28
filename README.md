@@ -2,6 +2,8 @@
 
 **Reimagining Cardiac Rehabilitation**
 
+**Hackathon on Devpost:** [Pulse Foundry AI Healthcare Hackathon: Reimagining Cardiac Rehabilitation](https://pulse-foundry-ai-healthcare.devpost.com/)
+
 ---
 
 ## The Story: Maria’s Gap
@@ -44,6 +46,59 @@ A walkthrough of the specific mechanic (gamification, social connection, or beha
 ### 3. The Blueprint (architecture diagram)
 
 A single diagram showing how the pieces fit together: how wearable data (heart rate, steps) flows into the AI; where the “red flag” trigger alerts a human doctor if Maria is in danger.
+
+---
+
+## Submission checklist (Devpost)
+
+Use this list before you submit. Paste-ready HTML for the hackathon page is in [`devpost/submission_requirements.html`](devpost/submission_requirements.html).
+
+### Deployed application (required)
+
+- [ ] Prototype is **deployed to the public internet** (no local-only install required to try it).
+- [ ] Devpost project includes a **working link** (Website / Try it out / URL field—whatever this event uses).
+- [ ] URL **loads and works** at submission time (no broken or placeholder links).
+- [ ] If judges need a **demo login** or steps, that’s written on Devpost **and** in the README.
+
+### Live demo (~3 minutes)
+
+- [ ] Plan for a **~3 minute** live demo; **not** slides-only as a substitute for the product.
+- [ ] Prefer demoing from your **deployed link** when possible.
+
+### Voice of Care (AI interaction)
+
+- [ ] Live demo covers **the win:** Maria finished a walk—how does the AI reinforce it?
+- [ ] Live demo covers **the wall:** Maria is tired, anxious, skipped a session—how does the AI intervene?
+
+### The “Hook” (engagement)
+
+- [ ] Walkthrough explains the mechanic (**gamification**, **social connection**, or **behavioral nudge**) that keeps Maria engaged at **Week 8**.
+
+### The Blueprint (architecture)
+
+- [ ] **One diagram** shows how wearable/app data (e.g. heart rate, steps) flows into your AI or backend.
+- [ ] Diagram shows where a **red-flag** path reaches a **human clinician** if Maria may be in danger.
+
+### Demo video (Devpost)
+
+- [ ] **Problem framing** in one or two sentences (Participation Paradox / Maria).
+- [ ] **Walkthrough** of AI moments (win + wall), ideally using the **deployed app**.
+- [ ] **Engagement hook** explained in under a minute.
+- [ ] **Architecture** shown (diagram on screen is fine).
+- [ ] **Public URL** mentioned in the video or Devpost description so judges can try it.
+- [ ] README explains **setup** for cloners (env vars, API keys, etc.).
+
+### Repository and documentation
+
+- [ ] **README:** project name, one-paragraph summary, team members, **same public URL as Devpost**, run/deploy instructions.
+- [ ] **License** included as required by the event.
+- [ ] List of **third-party APIs, models, and datasets** used.
+- [ ] Clear note on what is **mocked vs live** in the demo.
+
+### Optional but helpful
+
+- [ ] Short **data-flow** or **privacy** note (what is stored, where, why).
+- [ ] **Screenshots or GIFs** in the Devpost gallery.
 
 ---
 
