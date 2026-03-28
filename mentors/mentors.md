@@ -10,7 +10,7 @@
 <td align="center">
 <img src="../profiles/mittal_rana.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Mittal Rana, MD" /><br/>
 <strong>Mittal Rana, MD</strong><br/>
-Chief Medial Resident, <strong>NYU Grossman Long Island School of Medicine</strong><br/>
+Chief Medical Resident, <strong>NYU Grossman Long Island School of Medicine</strong><br/>
 <a href="https://www.linkedin.com/in/mittalranamd/">LinkedIn</a>
 </td>
 <td align="center">
