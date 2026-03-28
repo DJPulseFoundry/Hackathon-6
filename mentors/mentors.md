@@ -16,7 +16,7 @@ Chief Medial Resident, <strong>NYU Grossman Long Island School of Medicine</stro
 <td align="center">
 <img src="../profiles/anna_jacobs.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Anna Jacobs, MD, MBA" /><br/>
 <strong>Anna Jacobs, MD, MBA</strong><br/>
-Founder, <strong>inclusive+</strong> · General Surgery Resident, NYU Langone Health<br/>
+Founder, <strong>inclusive+</strong> · General Surgery Resident, <strong>NYU Langone Health</strong><br/>
 <a href="https://www.linkedin.com/in/annarenjacobs/">LinkedIn</a>
 </td>
 </tr>
@@ -37,11 +37,17 @@ Founder CEO &amp; CPO, <strong>FalconFirstAI</strong><br/>
 </tr>
 
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 <img src="../profiles/nihal_kaul.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Nihal Kaul" /><br/>
 <strong>Nihal Kaul</strong><br/>
 Lead Software Engineer, <strong>Revscale AI</strong><br/>
 <a href="https://www.linkedin.com/in/nihalwashere/">LinkedIn</a>
+</td>
+<td align="center" width="50%">
+<img src="../profiles/douglas_macintosh.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Douglas MacIntosh" /><br/>
+<strong>Douglas MacIntosh</strong><br/>
+AI Solution Director, <strong>C3 AI</strong><br/>
+<a href="https://www.linkedin.com/in/douglasmacintosh/">LinkedIn</a>
 </td>
 </tr>
 </table>
