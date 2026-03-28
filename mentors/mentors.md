@@ -10,7 +10,7 @@
 <td align="center">
 <img src="../profiles/mittal_rana.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Mittal Rana, MD" /><br/>
 <strong>Mittal Rana, MD</strong><br/>
-Chief Medial Resident, NYU Grossman Long Island School of Medicine<br/>
+Chief Medial Resident, <strong>NYU Grossman Long Island School of Medicine</strong><br/>
 <a href="https://www.linkedin.com/in/mittalranamd/">LinkedIn</a>
 </td>
 <td align="center">
@@ -25,13 +25,13 @@ Founder, <strong>inclusive+</strong> · General Surgery Resident, NYU Langone He
 <td align="center" width="50%">
 <img src="../profiles/syam_dondapati.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Syam Dondapati" /><br/>
 <strong>Syam Dondapati</strong><br/>
-Assistant Vice President, AIG<br/>
+Assistant Vice President, <strong>AIG</strong><br/>
 <a href="https://www.linkedin.com/in/syam-the-solution-provider/">LinkedIn</a>
 </td>
 <td align="center" width="50%">
 <img src="../profiles/varun_j_vincent.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Varun J. Vincent" /><br/>
 <strong>Varun J. Vincent</strong><br/>
-Founder CEO &amp; CPO, FalconFirstAI<br/>
+Founder CEO &amp; CPO, <strong>FalconFirstAI</strong><br/>
 <a href="https://www.linkedin.com/in/varunjvincent/">LinkedIn</a>
 </td>
 </tr>
@@ -40,7 +40,7 @@ Founder CEO &amp; CPO, FalconFirstAI<br/>
 <td align="center" colspan="2">
 <img src="../profiles/nihal_kaul.jpeg" width="140" height="140" style="border-radius:50%; object-fit:cover" alt="Nihal Kaul" /><br/>
 <strong>Nihal Kaul</strong><br/>
-Lead Software Engineer, Revscale AI<br/>
+Lead Software Engineer, <strong>Revscale AI</strong><br/>
 <a href="https://www.linkedin.com/in/nihalwashere/">LinkedIn</a>
 </td>
 </tr>
