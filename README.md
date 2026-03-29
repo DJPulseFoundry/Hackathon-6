@@ -11,7 +11,7 @@ Thanks to **Vercel** (including **v0**) and **Lovable** for supporting this hack
 | Sponsor | Credit |
 |--------|--------|
 | **v0** (Vercel) | `PULSE-FOUNDRY-V0` |
-| **Lovable** | *To be announced* |
+| **Lovable** | `COMM-WORLD-JSWS` ([setup steps](sponsors/lovable.md)) |
 
 Sponsor details: [`sponsors/README.md`](sponsors/README.md) (per-sponsor blurbs in that folder).
 
